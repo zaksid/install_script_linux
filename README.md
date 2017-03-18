@@ -2,7 +2,7 @@
 Scripts to install app on linux after installing and remove unneeded standard apps
 
 ## Tested environment
-Works on Linux Mint 18 Cinnamon
+Works on Linux Mint 18 Sarah Cinnamon
 
 ## Software to be installed
 ### apps
@@ -13,6 +13,7 @@ Works on Linux Mint 18 Cinnamon
 - Clementine
 - SSH
 - gufw (Firewall tool)
+- screenfetch (OS info tool)
 
 ### themes
 - numix-icon-theme
